@@ -1,5 +1,11 @@
 # Change Log
 
+## v1.1.0
+ * Forked from jsantell/poet
+   * Added support for Express 4
+   * Express 3 and below are no longer supported
+   * Based on code by AdamBInfinity https://github.com/jsantell/poet/commit/05e48f43c8db277c03a1dc97ee7e52ec04818a4d
+
 ## v1.0.0
 
 * Fixed some issues with allow Express 4.0.0+ in tests and examples 2816f43a68e04714bf28a838cb618e7cf5517a68, 57eba690d1a4e1b07a1d1c2b6fbb82e7c062cdca
