@@ -48,7 +48,7 @@ Include Poet in your package.json and add it to your app, passing in your Expres
 var
   express = require('express'),
   app = express(),
-  Poet = require('poet');
+  Poet = require('poet-for-express-4');
   
 var poet = Poet(app, {
   posts: './_posts/',
