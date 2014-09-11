@@ -13,9 +13,9 @@ View the source for [jsantell.com](https://github.com/jsantell/jsantell.com) to 
 
 ## New Release
 
-**v1.0.0**
+**v1.1.0**
 
-[**Changes in v1.0.0**](https://github.com/jsantell/poet/blob/master/CHANGELOG.md)
+[**Changes in v1.1.0**](https://github.com/jsantell/poet/blob/master/CHANGELOG.md)
 
 ## Documentation
 
