@@ -1,6 +1,9 @@
 Poet for Express 4 [![Build Status](https://travis-ci.org/jsantell/poet.png)](https://travis-ci.org/jsantell/poet)
 ======
 
+#Deprecated fork
+[jsantell/poet](https://github.com/jsantell/poet) 2.0 supports Express 4 redering this fork obsolete
+
 This is a fork of jsantell/poet that supports Express 4. Express 3 and below are not supported by this fork.
 
 **[Looking for maintenance help!](https://github.com/jsantell/poet/issues/91)**
